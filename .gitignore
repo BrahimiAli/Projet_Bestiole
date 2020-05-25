@@ -1,0 +1,6 @@
+*.o
+main
+*.gch
+*.txt
+test
+log
